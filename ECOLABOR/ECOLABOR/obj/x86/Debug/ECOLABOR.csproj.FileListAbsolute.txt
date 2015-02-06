@@ -1,0 +1,15 @@
+I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\bin\Debug\ECOLABOR.exe
+I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\bin\Debug\ECOLABOR.pdb
+I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Debug\Interop.ADODB.dll
+I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Debug\Interop.ADOMD.dll
+I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Debug\Interop.ADOX.dll
+I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.csproj.ResolveComReference.cache
+I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.Apresentacao.frmPrincipal.resources
+I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.Apresentacao.Login.frmLogin.resources
+I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.Apresentacao.frmCadastroNovaPlanilha.resources
+I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.Apresentacao.Planilhas.frmImportaPlanilhas.resources
+I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.Apresentacao.Planilhas.frmListaDePlanilhas.resources
+I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.Properties.Resources.resources
+I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.csproj.GenerateResource.Cache
+I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.exe
+I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.pdb

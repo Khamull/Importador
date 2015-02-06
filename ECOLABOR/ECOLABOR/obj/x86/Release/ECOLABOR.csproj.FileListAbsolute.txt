@@ -1,0 +1,105 @@
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\bin\Release\icon.ico
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\bin\Release\config.xml
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\bin\Release\app.config
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\bin\Release\Resources\add1 (1).png
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\bin\Release\Resources\add1.png
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.exe.config
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.exe.manifest
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.application
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.exe
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.pdb
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADODB.dll
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADOMD.dll
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADOX.dll
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.AtlActiveXLib.dll
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.csproj.ResolveComReference.cache
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Administração.frmCadastroDeUsuarios.resources
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Administração.frmConfiguracoes.resources
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Administração.frmListaUsuários.resources
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Administração.frmSenhaArquivos.resources
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.frmPrincipal.resources
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Login.frmLogin.resources
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.frmCadastroNovaPlanilha.resources
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Menu.frmImportaDados.resources
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Menu.frmListaModelos.resources
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Menu.frmOrientacao.resources
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Properties.Resources.resources
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.csproj.GenerateResource.Cache
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.TrustInfo.xml
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.exe.manifest
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.application
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.exe
+I:\ProjetosC\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.pdb
+I:\GIT\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.exe.config
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADODB.dll
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADOMD.dll
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADOX.dll
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.AtlActiveXLib.dll
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.csproj.ResolveComReference.cache
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.exe
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.pdb
+I:\GIT\ECOLABOR\ECOLABOR\bin\Release\icon.ico
+I:\GIT\ECOLABOR\ECOLABOR\bin\Release\config.xml
+I:\GIT\ECOLABOR\ECOLABOR\bin\Release\app.config
+I:\GIT\ECOLABOR\ECOLABOR\bin\Release\Resources\add1 (1).png
+I:\GIT\ECOLABOR\ECOLABOR\bin\Release\Resources\add1.png
+I:\GIT\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.exe.manifest
+I:\GIT\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.application
+I:\GIT\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.exe
+I:\GIT\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.pdb
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.csprojResolveAssemblyReference.cache
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Administração.frmCadastroDeUsuarios.resources
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Administração.frmConfiguracoes.resources
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Administração.frmListaUsuários.resources
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Administração.frmSenhaArquivos.resources
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.frmPrincipal.resources
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Login.frmLogin.resources
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.frmCadastroNovaPlanilha.resources
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Menu.frmImportaDados.resources
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Menu.frmListaModelos.resources
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Menu.frmOrientacao.resources
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Properties.Resources.resources
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.csproj.GenerateResource.Cache
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.TrustInfo.xml
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.exe.manifest
+I:\GIT\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.application
+I:\GIT\SIP\ECOLABOR\ECOLABOR\bin\Release\icon.ico
+I:\GIT\SIP\ECOLABOR\ECOLABOR\bin\Release\config.xml
+I:\GIT\SIP\ECOLABOR\ECOLABOR\bin\Release\app.config
+I:\GIT\SIP\ECOLABOR\ECOLABOR\bin\Release\Resources\add1 (1).png
+I:\GIT\SIP\ECOLABOR\ECOLABOR\bin\Release\Resources\add1.png
+I:\GIT\SIP\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.exe.config
+I:\GIT\SIP\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.exe.manifest
+I:\GIT\SIP\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.application
+I:\GIT\SIP\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.exe
+I:\GIT\SIP\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.pdb
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADODB.dll
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADOMD.dll
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADOX.dll
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.AtlActiveXLib.dll
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.csproj.ResolveComReference.cache
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Administração.frmCadastroDeUsuarios.resources
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Administração.frmConfiguracoes.resources
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Administração.frmListaUsuários.resources
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Administração.frmSenhaArquivos.resources
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.frmPrincipal.resources
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Login.frmLogin.resources
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.frmCadastroNovaPlanilha.resources
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Menu.frmImportaDados.resources
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Menu.frmListaModelos.resources
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Apresentacao.Menu.frmOrientacao.resources
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.Properties.Resources.resources
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.csproj.GenerateResource.Cache
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.TrustInfo.xml
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.exe.manifest
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.application
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.exe
+I:\GIT\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.pdb
+C:\Users\Charles\Google Drive\Fontes\SIP\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.exe.config
+C:\Users\Charles\Google Drive\Fontes\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADODB.dll
+C:\Users\Charles\Google Drive\Fontes\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADOMD.dll
+C:\Users\Charles\Google Drive\Fontes\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADOX.dll
+C:\Users\Charles\Google Drive\Fontes\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.AtlActiveXLib.dll
+C:\Users\Charles\Google Drive\Fontes\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.csproj.ResolveComReference.cache
+C:\Users\Charles\Google Drive\Fontes\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.exe
+C:\Users\Charles\Google Drive\Fontes\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.pdb
