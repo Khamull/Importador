@@ -103,3 +103,11 @@ C:\Users\Charles\Google Drive\Fontes\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\Inter
 C:\Users\Charles\Google Drive\Fontes\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.csproj.ResolveComReference.cache
 C:\Users\Charles\Google Drive\Fontes\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.exe
 C:\Users\Charles\Google Drive\Fontes\SIP\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.pdb
+C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.exe.config
+C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADODB.dll
+C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADOMD.dll
+C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADOX.dll
+C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.AtlActiveXLib.dll
+C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.csproj.ResolveComReference.cache
+C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.exe
+C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.pdb

@@ -1,0 +1,1 @@
+Scripts de instalação feitos com InnoSetup
