@@ -241,7 +241,7 @@ namespace ECOLABOR.Apresentacao.Menu
             
                 try
                 {
-                    Destino.Close();
+                    //Destino.Close();
                     xlApp.Quit();
                 }
                 catch (Exception ex)
@@ -311,7 +311,45 @@ namespace ECOLABOR.Apresentacao.Menu
                 //dtViewImport.DataSource = dt;
                 //dtViewImport.DataBind();
 
-                System.Data.DataTable dt = new System.Data.DataTable();
+
+
+                int rcount = 0;
+                Excel.Application app = new Microsoft.Office.Interop.Excel.Application();
+                Excel.Workbook Destino = app.Workbooks.Open(System.Environment.CurrentDirectory.ToString() + @"\aux_sip.xls");
+                Excel.Worksheet worksheet = Destino.ActiveSheet;
+
+                rcount = worksheet.UsedRange.Rows.Count;
+
+                //int i = 0;
+
+                //Initializing Columns
+                dtViewImport.ColumnCount = worksheet.UsedRange.Columns.Count;
+                for (int x = 0; x < dtViewImport.ColumnCount; x++)
+                {
+                    dtViewImport.Columns[x].Name = worksheet.Cells[1,x+1].Text;
+                    for (int i = 0; i < rcount; i++)
+                    {
+                        //dataGridView1.Rows[i].Cells["Column1"].Value = worksheet.Cells[i + 1, 1].Value;
+                        //dataGridView1.Rows[i].Cells["Column2"].Value = worksheet.Cells[i + 1, 2].Value;
+                        //dtViewImport.Rows.Add(worksheet.Cells[i + 1, x+1].Text, worksheet.Cells[i + 1, x+1].Text);
+                        dtViewImport.Rows.Add();
+                        dtViewImport.Rows[i].Cells[x].Value = worksheet.Cells[i+2, x+1].Text;
+                    }
+                   
+                }
+                //for (int i = 0; i < rcount; i++)
+                //{
+                //    //dataGridView1.Rows[i].Cells["Column1"].Value = worksheet.Cells[i + 1, 1].Value;
+                //    //dataGridView1.Rows[i].Cells["Column2"].Value = worksheet.Cells[i + 1, 2].Value;
+                //    dtViewImport.Rows.Add(worksheet.Cells[i + 1, 1].Text, worksheet.Cells[i + 1, 2].Text);
+                //    //dtViewImport.Rows.Add(worksheet.Cells[i, x].Text, worksheet.Cells[i, x].Text);
+                //}
+                
+
+
+
+
+                /*System.Data.DataTable dt = new System.Data.DataTable();
                 csConectaExcel excel_datagrid = new csConectaExcel();
                 OleDbConnection conn = new OleDbConnection();
                 conn = excel_datagrid.conectarExcel1(System.Environment.CurrentDirectory.ToString() + @"\aux_sip.xls");
@@ -329,10 +367,10 @@ namespace ECOLABOR.Apresentacao.Menu
                 //if (dt != null) { dtViewImport.DataSource = dt; }
                 //wb2.Close();
                 //values = (Object[,])excelCell.Cells.Value2;
-                //wb2.Close();
+                //wb2.Close();*/
 
-                Excel.Application xlApp_ = new Excel.Application();
-                Destino = xlApp_.Workbooks.Open(System.Environment.CurrentDirectory.ToString() + @"\aux_sip.xls");
+                //Excel.Application xlApp_ = new Excel.Application();
+                //Destino = xlApp_.Workbooks.Open(System.Environment.CurrentDirectory.ToString() + @"\aux_sip.xls");
                 Destino.ActiveSheet.Cells.ClearContents();
                 Destino.Save();
                 Destino.Close();
@@ -438,7 +476,7 @@ namespace ECOLABOR.Apresentacao.Menu
                 Range dest;
                 try
                 {
-                   // xlApp.Visible = true;
+                   //xlApp.Visible = true;
                 }
                 catch { }
                 //Microsoft.Office.Interop.Excel.Worksheet sheets = new Microsoft.Office.Interop.Excel.Worksheet();
@@ -461,7 +499,7 @@ namespace ECOLABOR.Apresentacao.Menu
                 //dest = Destino.Sheets[1].Range(columnName(sheets)[0]);
                 progressBar.Value = 0;
                 progressBar.Maximum = src.Count;
-
+                dtViewImport.ColumnCount++;
                 for (int h = 1; h <= 1; h++)
                 {
                     int col = lastColl(sheets);
@@ -470,6 +508,7 @@ namespace ECOLABOR.Apresentacao.Menu
                         //teste_.Add();
                         sheets.Cells[r, col + 1] = src.Cells[r, h].Text;
                         progressBar.Value++;
+                        //dtViewImport.Rows.Add(src.Cells[r, h].Text, src.Cells[r, col+1].Text);
                     }
                 }
                 //excel.Selection.EntireColumn.Hidden = false;

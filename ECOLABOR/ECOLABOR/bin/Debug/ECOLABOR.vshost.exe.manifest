@@ -43,17 +43,35 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ECOLABOR.exe" size="2148864">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ECOLABOR.exe" size="2154496">
       <assemblyIdentity name="ECOLABOR" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>2nX1h5Zvl9FwCF47BNPNy0HRS68=</dsig:DigestValue>
+        <dsig:DigestValue>8CPCSUOj0750T8AVXZdfLGjNb+k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
+  <file name="AccessDatabaseEngine.exe" size="26554784">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DjKkJEE+B7rZdCS+Xr0hZAfx4tw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="AccessDatabaseEngine_x64.exe" size="28631968">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>BwJdDS1YRLdCwKu9FLdsRoAs1ms=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="ECOLABOR.exe.config" size="463">
     <hash>
       <dsig:Transforms>
