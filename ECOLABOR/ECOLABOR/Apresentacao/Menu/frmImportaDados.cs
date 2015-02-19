@@ -16,6 +16,7 @@ using ECOLABOR.Negocios.funcoesUteis;
 using System.Data.SqlClient;
 using System.Reflection;
 using Microsoft.Office.Interop.Excel;
+using System.Globalization;
 
 namespace ECOLABOR.Apresentacao.Menu
 {
@@ -333,7 +334,8 @@ namespace ECOLABOR.Apresentacao.Menu
                         //dataGridView1.Rows[i].Cells["Column2"].Value = worksheet.Cells[i + 1, 2].Value;
                         //dtViewImport.Rows.Add(worksheet.Cells[i + 1, x+1].Text, worksheet.Cells[i + 1, x+1].Text);
                         dtViewImport.Rows.Add();
-                        dtViewImport.Rows[i].Cells[x].Value = worksheet.Cells[i+2, x+1].Text;
+                        String teste = worksheet.Cells[i+2, x+1].Text;
+                        dtViewImport.Rows[i].Cells[x].Value = teste.Replace(".", ",");
                     }
                    
                 }
@@ -428,6 +430,16 @@ namespace ECOLABOR.Apresentacao.Menu
 
         public void retriveLastFillCellValue(List<int> Colunas, Microsoft.Office.Interop.Excel.Worksheet ws, List<string> rgInic)//retorna a maior Linha com dados!
         {
+            string culture = System.Threading.Thread.CurrentThread.CurrentCulture.ToString();//"en-GB";
+            CultureInfo ci = new CultureInfo(culture);
+            //Origem = xlApp.Workbooks.Open(anteriorArquivo);
+            bool systemseparators = xlApp.UseSystemSeparators;
+            if (xlApp.UseSystemSeparators == false)
+            {
+
+                xlApp.UseSystemSeparators = true;
+
+            }
             //xlApp.Visible = true;
             //src.Formula = "=ROW()";
             int j = 0;
@@ -473,7 +485,7 @@ namespace ECOLABOR.Apresentacao.Menu
         {
             try
             {
-                Range dest;
+                //Range dest;
                 try
                 {
                    //xlApp.Visible = true;
@@ -506,7 +518,7 @@ namespace ECOLABOR.Apresentacao.Menu
                     for (int r = 1; r <= src.Count; r++)
                     {
                         //teste_.Add();
-                        sheets.Cells[r, col + 1] = src.Cells[r, h].Text;
+                        sheets.Cells[r, col + 1] = src.Cells[r, h].Text.ToString().Trim();
                         progressBar.Value++;
                         //dtViewImport.Rows.Add(src.Cells[r, h].Text, src.Cells[r, col+1].Text);
                     }

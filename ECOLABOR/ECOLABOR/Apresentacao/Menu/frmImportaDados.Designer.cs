@@ -86,6 +86,7 @@
             this.dtViewImport.Name = "dtViewImport";
             this.dtViewImport.Size = new System.Drawing.Size(723, 226);
             this.dtViewImport.TabIndex = 13;
+            //this.dtViewImport.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtViewImport_CellContentClick);
             // 
             // groupBox2
             // 
