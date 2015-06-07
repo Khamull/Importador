@@ -35,7 +35,14 @@ namespace ECOLABOR.Dados
                     // Clean up
                     Marshal.ReleaseComObject(pctx);
                     // Search for the workbook
-                    if (filepathname.IndexOf(xlfile) != -1)
+                    //if (filepathname.IndexOf(xlfile) != -1)
+                    //{
+                    //    object roval;
+                    //    // Get a handle on the workbook
+                    //    prot.GetObject(monikers[0], out roval);
+                    //    return roval as Workbook;
+                    //}
+                    if (filepathname.IndexOf("xls") != -1 || filepathname.IndexOf("xlsx") != -1)//Alteração efetuada para que não valide pelo nome do processo, posto que o sistema só terá um aberto do excel neste passo!
                     {
                         object roval;
                         // Get a handle on the workbook

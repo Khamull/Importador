@@ -335,7 +335,7 @@ namespace ECOLABOR.Apresentacao.Menu
                         //dtViewImport.Rows.Add(worksheet.Cells[i + 1, x+1].Text, worksheet.Cells[i + 1, x+1].Text);
                         dtViewImport.Rows.Add();
                         String teste = worksheet.Cells[i+2, x+1].Text;
-                        dtViewImport.Rows[i].Cells[x].Value = teste.Replace(".", ",");
+                        dtViewImport.Rows[i].Cells[x].Value = teste;//.Replace(".", ",");
                     }
                    
                 }
@@ -486,11 +486,11 @@ namespace ECOLABOR.Apresentacao.Menu
             try
             {
                 //Range dest;
-                try
-                {
-                   //xlApp.Visible = true;
-                }
-                catch { }
+                //try
+                //{
+                //   xlApp.Visible = true;
+                //}
+                //catch { }
                 //Microsoft.Office.Interop.Excel.Worksheet sheets = new Microsoft.Office.Interop.Excel.Worksheet();
                 //try
                 //{
@@ -517,12 +517,14 @@ namespace ECOLABOR.Apresentacao.Menu
                     int col = lastColl(sheets);
                     for (int r = 1; r <= src.Count; r++)
                     {
-                        //teste_.Add();
-                        sheets.Cells[r, col + 1] = src.Cells[r, h].Text.ToString().Trim();
+                        sheets.Cells[r, col + 1] = "'"+src.Cells[r, h].Text.ToString().Trim();
+                        dtViewImport.Rows.Add();
+                        //String teste = src.Cells[r + 2, col + 1].Text;
+                        //dtViewImport.Rows[r].Cells[col].Value = teste.Replace(".", ",");
                         progressBar.Value++;
-                        //dtViewImport.Rows.Add(src.Cells[r, h].Text, src.Cells[r, col+1].Text);
                     }
                 }
+                sheets.UsedRange.Columns.AutoFit();//Define Tamanho das Colunas automáticamente
                 //excel.Selection.EntireColumn.Hidden = false;
                 //Microsoft.Office.Interop.Excel.Range used = xlWs.UsedRange;
                 //Microsoft.Office.Interop.Excel.Range excelCell = xlWs.UsedRange;

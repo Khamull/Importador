@@ -21,6 +21,7 @@ namespace ECOLABOR.Negocios.funcoesUteis
                 {
                     xlApplication.Application.Quit();
                     System.Diagnostics.Process[] process = System.Diagnostics.Process.GetProcessesByName("Excel");
+                    //System.Diagnostics.Process[] process = System.Diagnostics.Process.GetProcessesByName("Excel.EXE*32");
                     foreach (System.Diagnostics.Process p in process)
                     {
                         if (!string.IsNullOrEmpty(p.ProcessName))

@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ECOLABOR.exe" size="2145280">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ECOLABOR.exe" size="2146304">
       <assemblyIdentity name="ECOLABOR" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>FbtYdX84+oTHdJarQQ1uRifU6us=</dsig:DigestValue>
+        <dsig:DigestValue>ht9ookWu0Zn8543SQJY9ycMxTL8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

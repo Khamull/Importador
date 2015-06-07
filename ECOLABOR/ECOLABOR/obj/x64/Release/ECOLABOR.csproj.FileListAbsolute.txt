@@ -77,7 +77,6 @@ C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\x64\Release\E
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\x64\Release\ECOLABOR.application
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\x64\Release\ECOLABOR.exe
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\x64\Release\ECOLABOR.pdb
-C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x64\Release\ECOLABOR.csprojResolveAssemblyReference.cache
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x64\Release\Interop.ADODB.dll
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x64\Release\Interop.ADOMD.dll
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x64\Release\Interop.ADOX.dll
@@ -100,3 +99,4 @@ C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x64\Release\E
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x64\Release\ECOLABOR.application
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x64\Release\ECOLABOR.exe
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x64\Release\ECOLABOR.pdb
+C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x64\Release\ECOLABOR.csprojResolveAssemblyReference.cache

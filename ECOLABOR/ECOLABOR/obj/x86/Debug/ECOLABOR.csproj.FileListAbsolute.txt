@@ -13,7 +13,6 @@ I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.Prope
 I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.csproj.GenerateResource.Cache
 I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.exe
 I:\ProjetosC#\ECOLABOR\WSECOLABOR\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.pdb
-C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.exe
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Debug\Interop.ADODB.dll
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Debug\Interop.ADOMD.dll
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Debug\Interop.ADOX.dll
@@ -31,8 +30,6 @@ C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Debug\ECO
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.Apresentacao.Menu.frmOrientacao.resources
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.Properties.Resources.resources
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.csproj.GenerateResource.Cache
-C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.pdb
-C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\Debug\ECOLABOR.exe.config
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\Debug\AccessDatabaseEngine.exe
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\Debug\AccessDatabaseEngine_x64.exe
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\Debug\icon.ico
@@ -42,6 +39,7 @@ C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\Debug\correca
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\Debug\correcao.reg
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\Debug\Resources\add1 (1).png
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\Debug\Resources\add1.png
+C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\Debug\ECOLABOR.exe.config
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\Debug\ECOLABOR.exe.manifest
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\Debug\ECOLABOR.application
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\Debug\ECOLABOR.exe
@@ -50,3 +48,5 @@ C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Debug\ECO
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.TrustInfo.xml
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.exe.manifest
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.application
+C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.exe
+C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Debug\ECOLABOR.pdb

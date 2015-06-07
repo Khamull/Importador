@@ -117,6 +117,7 @@ C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\Release\ECOLA
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.application
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.exe
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\bin\Release\ECOLABOR.pdb
+C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Release\ECOLABOR.csprojResolveAssemblyReference.cache
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADODB.dll
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADOMD.dll
 C:\Users\Charles\Documents\GitHub\Importador\ECOLABOR\ECOLABOR\obj\x86\Release\Interop.ADOX.dll

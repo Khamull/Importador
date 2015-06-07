@@ -467,7 +467,7 @@ namespace ECOLABOR.Apresentacao
         private void webBrowser1_Navigated(object sender, WebBrowserNavigatedEventArgs e)
         {
             // Creation of the workbook object
-
+            //m_Workbook = ExcelWrapper.RetrieveWorkbook(caminho_arquivo);
             if ((m_Workbook = ExcelWrapper.RetrieveWorkbook(caminho_arquivo)) == null)
             {
                 return;
